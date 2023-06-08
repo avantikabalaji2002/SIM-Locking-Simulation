@@ -10,7 +10,17 @@ CODE:
 - If the OTP is validated successfully, the SIM card is unlocked, and the user is prompted to answer security questions. If the security questions are answered correctly, a SIM swap is performed by generating old and new SIM numbers and storing them in the sim_database.
 - Finally, the user is given the option to freeze the new SIM with a secret key. If chosen, the SIM is locked again, and the secret key is generated and associated with the new SIM in the sim_database.
 
+**TEAM MEMBERS**
 
+Avantika Balaji     - CB.EN.U4CSE20309
+
+Charitha Uppalapati - CB.EN.U4CSE20311
+
+Kausalyaa Sri       - CB.EN.U4CSE20326
+
+Sanjay Balaji P     - CB.EN.U4CSE20354
+
+Sherwin Akshay J G  - CB.EN.U4CSE20358
 
 
 
