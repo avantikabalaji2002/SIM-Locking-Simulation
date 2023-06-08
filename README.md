@@ -1,6 +1,9 @@
 # SIM-Locking-Simulation
 T-Mobile Data Breach Case Study | Simple Sim Locking Simulation
 
+SIM locking involves adding a PIN or password to the SIM card. This security feature requires the user to provide the correct PIN or password before the SIM card can be accessed or activated on a different device. It acts as a barrier against unauthorized SIM swaps because the attacker would need to know the PIN or password to successfully transfer the phone number.
+
+CODE:
 - The code simulates a process of locking and unlocking a SIM card and performing security checks during SIM swapping.
 - It uses two simulated databases: user_database for storing user information (username, password, and OTP) and sim_database for storing SIM numbers and secret keys.
 - The simulate_sim_lock function is the main function that runs the simulation. It prompts the user for their username and password, validates the credentials, sends an OTP, and validates it.
